@@ -1,5 +1,6 @@
 # stock-index
 Jeremy was here too
+
 Audrey Chu
 
 To analyze the prices of stocks for companies among industries throughout time. We want to look at the relationship among industries, time, and historical events.
